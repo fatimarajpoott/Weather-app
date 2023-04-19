@@ -46,7 +46,6 @@ function getWeatherData(location) {
       })
       .catch((error) => console.log(error));
   }
-
 }
 
 // Function to display weather data
